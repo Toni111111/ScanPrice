@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="MaterialDesign" >
+        <item name="android:colorControlHighlight">#26C6DA</item>
+        <item name="android:colorButtonNormal">#0097A7</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

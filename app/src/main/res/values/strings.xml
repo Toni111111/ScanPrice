@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <integer name="com_vk_sdk_AppId">5526046</integer>
+    <string name="title_activity_basket">BasketActivity</string>
+</resources>

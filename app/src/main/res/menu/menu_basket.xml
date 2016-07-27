@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".BasketProducts.BasketActivity">
+    <item
+        android:id="@+id/clear_table"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="always"
+        android:title="delete" />
+    <item
+        android:title="SearchProducts"
+        android:orderInCategory="100"
+        android:id="@+id/search_product"
+        app:showAsAction="always"
+        android:icon="@drawable/search_basket"
+        />
+</menu>
